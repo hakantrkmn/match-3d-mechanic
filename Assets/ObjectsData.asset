@@ -12,3 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59d27e5e7a60e45a1aa97222875e9019, type: 3}
   m_Name: ObjectsData
   m_EditorClassIdentifier: 
+  objectDatasList:
+  - type: 0
+    color: {r: 0.20637941, g: 0.8679245, b: 0.18422928, a: 0}
+    point: 5
+  - type: 1
+    color: {r: 0.9339623, g: 0.7694825, b: 0.118948035, a: 0}
+    point: 10
