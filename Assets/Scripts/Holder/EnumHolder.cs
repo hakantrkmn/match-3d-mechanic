@@ -13,21 +13,11 @@ public enum InGamePanelTypes
     ProgressBar,
     Both
 }
-public enum MoneyStates
-{
-    OnDesk,
-    OnRegister,
 
-}
-public enum MoneyPrices
+public enum ObjectTypes
 {
-    OneDolar,
-    TwoDolar,
-    FiveDolar,
-    TenDolar,
-    TwentyDolar,
-    TwentyFiveDolar,
-
+    Cube,
+    Sphere,
 }
 
 

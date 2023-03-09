@@ -9,6 +9,21 @@ public struct TutorialPanels
     public GameObject panelGameObject;
 }
 
+[Serializable]
+public struct SlotStatus
+{
+    public bool isFilled;
+    public ObjectTypes slotObj;
+}
+
+[System.Serializable]
+public struct ObjectDatas
+{
+    public ObjectTypes type;
+    public Color color;
+    public int point;
+}
+
 
 #region Incremental Idle
 [Serializable]

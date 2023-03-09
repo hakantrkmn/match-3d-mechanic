@@ -44,6 +44,7 @@ public static class EventManager
     #endregion
 
  
+    public static Action<Objects> ObjectClicked;
 
 
 }
