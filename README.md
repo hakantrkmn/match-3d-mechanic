@@ -1,6 +1,3 @@
-# Unity Game Template
- unity oyun için kullandığım template. hazır patternler ve başlangıç sürecini hızlandıracak şekilde hazırladım.
- 
- içindeki assetler
- - Odin
- - Dotween
+# Match 3d mekaniği
+
+dinamik match barı, scriptable ile kolay eşya ekleyip çıkarma, solide uygun, anlaşılması kolay ve sürdürülebilir üstüne çok rahat birşeyler eklenebilir kod
