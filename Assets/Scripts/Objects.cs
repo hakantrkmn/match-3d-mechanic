@@ -42,6 +42,7 @@ public abstract class Objects : MonoBehaviour, IClickable
     {
         EventManager.ObjectClicked(this);
         ScaleDown();
+        GetComponent<Collider>().enabled = false;
     }
 
     void ScaleDown()

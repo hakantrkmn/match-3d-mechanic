@@ -18,6 +18,8 @@ public enum ObjectTypes
 {
     Cube,
     Sphere,
+    Cylinder,
+    Capsule
 }
 
 

@@ -45,6 +45,7 @@ public static class EventManager
 
  
     public static Action<Objects> ObjectClicked;
+    public static Action<ObjectTypes> EarnMoney;
 
 
 }

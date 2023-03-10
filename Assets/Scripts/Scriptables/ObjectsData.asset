@@ -16,6 +16,16 @@ MonoBehaviour:
   - type: 0
     color: {r: 0.20637941, g: 0.8679245, b: 0.18422928, a: 0}
     point: 5
+    sprite: {fileID: 21300000, guid: 9ad04378ec1b9426da9ddf7333172781, type: 3}
   - type: 1
     color: {r: 0.9339623, g: 0.7694825, b: 0.118948035, a: 0}
     point: 10
+    sprite: {fileID: 21300000, guid: 4ab459f87e56b4f3290140ee233b2f93, type: 3}
+  - type: 2
+    color: {r: 0.9245283, g: 0, b: 0.7547417, a: 0}
+    point: 50
+    sprite: {fileID: 21300000, guid: 05831074877dd4e4ba0129ef1e5fb40b, type: 3}
+  - type: 3
+    color: {r: 0.10618157, g: 0.079476655, b: 0.8867924, a: 0}
+    point: 100
+    sprite: {fileID: 21300000, guid: c6eb84e2ea5d040729efed268488267b, type: 3}

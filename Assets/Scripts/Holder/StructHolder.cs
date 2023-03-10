@@ -22,6 +22,7 @@ public struct ObjectDatas
     public ObjectTypes type;
     public Color color;
     public int point;
+    public Sprite sprite;
 }
 
 
